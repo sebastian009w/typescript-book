@@ -4,7 +4,7 @@ The Concise TypeScript Book provides a comprehensive and succinct overview of Ty
 
 This book is completely Free and Open Source.
 
-## Table of content
+## Table of content --
 
 - [The Concise TypeScript Book](#the-concise-typescript-book)
   - [Table of content](#table-of-content)
